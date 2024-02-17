@@ -65,6 +65,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 09d27ce2-86f7-4dae-b401-8da1cd8f7dd4,Chetan Choudhary,2023-03-08T14:42:49.750Z,78193c9e-8001-4bf8-a3ac-a82e8e0680a6,BJP,India,in,567821270266572,Chetan Choudhary,Facebook
 09ece0a3-bae4-4ed4-90a7-4b4eeed52bb8,Devilal Dadarwal,2023-03-08T14:42:50.460Z,a3765cf0-df1d-4703-80b0-4eff873c0d4d,BJP,India,in,101364849264056,Devilal Dadarwal,Facebook
 0a169733-360a-4d2f-bbda-7024b31a1c34,Kanta Sonwal,2023-02-07T15:08:07.235Z,f1923403-14d2-44cf-8c0d-d015949179da,BJP,India,in,678803825664159,Kanta Sonwal,Facebook
+0a74b473-0f18-40ff-af21-f634d5b32d15,Partha Sarathy BJP,2024-01-21T05:07:05.421Z,636c6468-a2b5-4de1-8f38-16aabe3c9477,BJP,India,in,109825501383646,Partha Sarathy BJP,Facebook
 0a88c0f9-b4ea-40da-8c30-a012f20cf6d2,Gurveer Singh,2023-06-13T06:53:09.343Z,082196d8-ca61-404a-b2db-da6ffc5ee164,BJP,India,in,313571145825975,Gurveer Singh,Facebook
 0a8bfc07-9e7d-475a-8a8d-c675c789c056,Keshari Singh Azad,2023-05-03T06:52:53.647Z,e5d43dc3-265c-48c3-b9ed-576a4f9ee64f,BJP,India,in,108122258569992,Keshari Singh Azad,Facebook
 0a8f7662-3376-4a68-a420-4608c384a3b7,BJP Jammu East Constituency,2023-10-13T05:07:06.535Z,b07b994a-c82a-4172-9129-d8e3f7686e0f,BJP,India,in,132011173321676,BJP Jammu East Constituency,Facebook
@@ -91,12 +92,15 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 0d63c1dd-5ab5-4947-a4b5-3dce29b031c4,Dr Rajaram prajapati,2023-10-13T05:07:04.675Z,63a73747-d333-4414-ad51-51ffe2b7150b,BJP,India,in,113806985155974,Dr Rajaram prajapati,Facebook
 0d8a92f4-bcce-4211-b55a-d915a5496cb8,,2023-09-05T05:06:55.609Z,f6d738fd-204d-4f9a-80ac-0950a5e6c484,BJP,India,in,105883119263550,,Facebook
 0dc7aebc-a4a8-4c64-84b1-a193fe3c694c,Karnataka BJP Supporters,2023-02-15T10:53:06.726Z,ca256a5b-5ca9-4bd0-b4db-37cd5426c730,BJP,India,in,110569254991159,Karnataka BJP Supporters,Facebook
+0e0f4d7a-1710-4a28-8820-f06269887c4e,BJP Shimla Urban,2023-12-15T05:07:07.059Z,a12ac3fd-f65b-4e63-b76c-0ad96840358b,BJP,India,in,108017991804237,BJP Shimla Urban,Facebook
 0e0ffb32-9489-4fc3-918c-918335a2edd0,Madhya Pradesh Ki Gaatha,2023-09-16T05:06:52.123Z,10e8d14a-6a30-4e3f-99f6-c0e3ff9d0bc6,BJP,India,in,108265008981912,Madhya Pradesh Ki Gaatha,Facebook
+0e16ffd0-05a6-4448-b850-bd8a66734f13,Saurav Gupta BJP,2023-12-11T05:06:50.201Z,273a6b52-d631-4ffc-8bed-4dd5de73aadb,BJP,India,in,421493484670882,Saurav Gupta BJP,Facebook
 0e79326e-aa70-41b3-ad8f-fe88fa0632cb,Prahlad Patel BJP,2023-03-08T14:42:51.026Z,b95eb363-b3dc-40b8-ba0f-aaa96aa25090,BJP,India,in,107258392024416,Prahlad Patel BJP,Facebook
 0e843980-a6fb-475c-b063-5f772cc61dea,Bjp Vanasthalipuram,2023-11-20T05:07:09.031Z,e5d4c060-2181-4e41-a48c-b1cf3889e8f8,BJP,India,in,996396107076241,Bjp Vanasthalipuram,Facebook
 0ec03b30-bb4d-42b6-84ae-469c173dab13,pashu_tonk_bjp,2023-02-14T10:53:16.417Z,1ab792ba-8cfd-43a1-ab87-c671289ed852,BJP,India,in,112304688198096,pashu_tonk_bjp,Facebook
 0edc4e8c-e0a8-42c4-82aa-3b192594583b,राजस्थान चाहे भाजपा,2023-05-13T06:53:13.848Z,743592ee-162d-4ec3-bac4-8f9122a5c718,BJP,India,in,100238412466900,राजस्थान चाहे भाजपा,Facebook
 0edd420a-76be-4fdc-b559-128a6a31465b,Sajjan Mishra,2023-08-26T05:06:49.268Z,449f2ad6-ffd8-4892-b563-2ceb62ef3672,BJP,India,in,111664795299972,Sajjan Mishra,Facebook
+0ef65a7a-b5c0-428f-bd12-fcf7324b03fc,BJP Support,2023-11-14T12:26:57.711Z,a0514513-6640-4116-bc2f-9a091f3f745c,BJP,India,in,586658295122723,BJP Support,Facebook
 0f4a864a-b13f-40f9-b3ff-7ec9d0c77f4a,Sanjay Suthar Bjp,2023-07-26T05:08:45.858Z,a8a2f671-54f3-4208-a7d9-9094087fd465,BJP,India,in,117363474626879,Sanjay Suthar Bjp,Facebook
 0f4b8d28-f60a-4aaf-b8c7-38070b95d497,Premayogan - பிரேமயோகன் BJP,2023-03-08T19:11:16.504Z,647daf3b-a28c-4237-ac5c-74af03940577,BJP,India,in,109021711447978,Premayogan - பிரேமயோகன் BJP,Facebook
 0f910cec-9a25-45aa-bd9e-aa76e0d27c21,मारवाड़ का सूरज,2023-09-16T05:06:48.537Z,39ffaf9d-ae29-482c-8071-c8a0775b17c8,BJP,India,in,108223365694024,मारवाड़ का सूरज,Facebook
@@ -136,6 +140,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 147a8b8e-9a76-45e3-ab22-7f0b12711ebc,Anoop Pradhan BJP,2023-02-07T15:08:07.917Z,1eaa7c2d-1f01-4b4e-9be6-698c73cff818,BJP,India,in,573508906151236,Anoop Pradhan BJP,Facebook
 14c8d7a8-6d14-4f23-b201-224cdad83826,Krishna Gaur,2023-05-23T06:53:06.181Z,7b0a52da-aded-417f-9692-af3924c5b03e,BJP,India,in,1515147398794427,Krishna Gaur,Facebook
 14f0c6de-62cc-4255-aa55-98d7bb1c5dee,Naval Maharshi,2023-08-26T05:06:46.547Z,d97cdb4d-f6c3-4fcf-b915-a1e129893839,BJP,India,in,109691895385170,Naval Maharshi,Facebook
+14f56cab-cd54-4e80-971e-f56425517197,Avaneeshvar BJP,2024-01-13T05:06:45.365Z,f24aa305-33a0-4566-88c6-e348d51ff9b9,BJP,India,in,227547513764264,Avaneeshvar BJP,Facebook
 14f883a0-6cae-4345-aeb4-ad49baaf3f8c,Rajendra Singh Dholia,2023-03-08T10:53:14.164Z,d6f9eb53-0bf8-4def-8c30-326ab8ba2ce8,BJP,India,in,761174950735198,Rajendra Singh Dholia,Facebook
 1513abd8-3bb6-4aeb-b4ab-252bc2fdd887,OP Choudhary,2023-02-07T15:08:05.034Z,57bfd3b1-0563-45bb-b6db-e331c16aef00,BJP,India,in,708844685796745,OP Choudhary,Facebook
 1513f7cb-b997-4aca-bff1-c12a5fa36fb8,BJP Mission LB Nagar,2023-02-27T10:53:17.798Z,dde73200-4cb1-435d-9071-c6fe089d5d20,BJP,India,in,100686786131352,BJP Mission LB Nagar,Facebook
@@ -168,6 +173,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 1867bb24-5397-4dda-8e91-ebc220687990,Ar. Vipul Mandoli BJP,2023-03-08T14:42:49.661Z,89945938-8d54-4acd-b076-05c5eee49b2a,BJP,India,in,127874421264246,Ar. Vipul Mandoli BJP,Facebook
 186d2d07-3244-4f61-a803-596c12c8eda7,Dhana Ram Choudhary,2023-06-29T05:42:28.751Z,4ed94758-784c-4c77-9d8f-f66c2c1bd2f2,BJP,India,in,104167248169062,Dhana Ram Choudhary,Facebook
 18aee75d-0d97-4e2f-bc8d-8f88938f906b,Raghuveer Singh Tanwar,2023-02-07T15:08:04.850Z,4295d8b4-eba4-46d7-8c60-71ea1b210ff1,BJP,India,in,385303288239154,Raghuveer Singh Tanwar,Facebook
+18ba6292-08fa-4c53-b8e8-f3b3dd1eb494,Bjp Sanjiv Goyal,2024-01-24T05:06:54.291Z,185fff95-6864-4c64-ad22-cee3a88d3866,BJP,India,in,151028888909049,Bjp Sanjiv Goyal,Facebook
 18e225b1-abbf-4582-8b53-27adc3013598,Daman Sethi,2023-02-07T15:08:07.937Z,641e6dd9-9f71-4e4e-99fe-bbe1a83c9615,BJP,India,in,102111112713801,Daman Sethi,Facebook
 18ef3ddb-4b85-43dc-9e2f-0c34a970aef8,S.P Thakor BJP,2023-03-08T16:01:39.485Z,77786365-39b7-4f06-98b6-7ace978f1818,BJP,India,in,1767512533540641,S.P Thakor BJP,Facebook
 19062118-9706-48e3-9f20-aa6751c975df,Jageshwar Jugnu Chandrakar,2023-06-13T06:53:07.713Z,6ca8e5f4-2fc5-485f-80ff-da0cf46c3f91,BJP,India,in,477443809409105,Jageshwar Jugnu Chandrakar,Facebook
@@ -200,6 +206,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 1e1e24f8-b4ae-4efd-a31f-c14e0df5b7cc,Satish Malviya,2023-09-09T05:06:50.784Z,23c0df19-ea7d-461e-8eec-ec44e7592457,BJP,India,in,1970391076564939,Satish Malviya,Facebook
 1e314a2f-30d3-4cf5-bb73-72d196930781,rishangsharma4bjp,2023-03-08T15:12:27.476Z,97458039-acdb-487a-9a36-df8a909e20b5,BJP,India,in,113201594960749,rishangsharma4bjp,Facebook
 1e7a8039-08ad-445c-a794-a31444985c1f,रीवा की राय,2023-06-11T06:52:55.868Z,2fca24b0-398e-4db6-88e5-8edd958887f7,BJP,India,in,102537739533421,रीवा की राय,Facebook
+1e883045-cf07-4e3d-88b6-b367ef0edb83,Dr Shilendra Kumar BJP,2024-01-20T05:06:51.758Z,0e5da7f2-4303-4b4f-ab95-8e0544fd966a,BJP,India,in,150217098175251,Dr Shilendra Kumar BJP,Facebook
 1e8c48d7-b902-417f-9b03-1072400030c3,Rajendra Singh Bhinyad For Sheo MLA,2023-03-24T10:53:13.538Z,020cb845-ae90-4969-ada9-529b8bce11f8,BJP,India,in,319499025265124,Rajendra Singh Bhinyad For Sheo MLA,Facebook
 1ea3de59-9d08-415f-9667-a900a735b90c,Ankur Gupta Bjp,2023-03-01T10:53:11.429Z,14f022ba-7500-40ea-905d-b78d2e14baf0,BJP,India,in,482351105298414,Ankur Gupta Bjp,Facebook
 1ebbfc96-9876-444d-a443-378be3d1bbd6,BJP  Mahila Morcha  Dhenkanal,2023-07-31T10:55:26.383Z,da8a347c-7813-464c-8f97-a7eece7edb4b,BJP,India,in,257510831667906,BJP  Mahila Morcha  Dhenkanal,Facebook
@@ -349,6 +356,8 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 37db4ee4-2cc5-4cc8-844a-964f46e8e5be,bjp_4awadhesh,2023-06-03T06:53:00.406Z,b579bd39-91c2-42e5-839d-b498f1b49b6d,BJP,India,in,102199916229519,bjp_4awadhesh,Facebook
 383d8036-75f3-4a94-8ecd-41c675f850e0,Mamta Chauhan BJP,2023-03-12T10:53:12.069Z,dcd54809-9188-4114-b136-ec73a2690c82,BJP,India,in,1416368828635933,Mamta Chauhan BJP,Facebook
 3894bcc9-a97d-455c-8a40-fdfd033291da,nidhishnawab_bjp,2023-10-21T05:07:26.326Z,ebd57475-bf19-4574-991b-122337f12743,BJP,India,in,104065319344149,nidhishnawab_bjp,Facebook
+38c708f8-ca47-4c40-bb93-780a64e49663,BJP शिवानी शर्मा,2023-11-06T05:06:55.896Z,5409a6bc-cd00-4465-a48c-d243d3095fe8,BJP,India,in,105297709258913,BJP शिवानी शर्मा,Facebook
+38ccda19-6420-4ff6-9f42-4506722b188f,Adv kuldeep Gautam bjp,2023-11-14T12:26:59.891Z,8b529544-b41c-46e0-a572-901981407bca,BJP,India,in,113356210366390,Adv kuldeep Gautam bjp,Facebook
 38fb29f1-1334-418a-a1de-19cd883a6680,BJP MalviyaNagar,2023-10-31T05:42:46.988Z,2eb92aab-304c-4c7a-b5a2-351b62ecbf25,BJP,India,in,642038049509961,BJP MalviyaNagar,Facebook
 390fb0bc-4ce2-426e-ae6b-ea0569a05226,Satyarth Mishra BJP,2023-02-07T15:08:07.192Z,fcc732c2-ecf9-4d1a-a309-a4b07d09ba43,BJP,India,in,2183879384956101,Satyarth Mishra BJP,Facebook
 39114e3a-f332-40df-bcba-dc97a6e03ab9,Chetan Tyagi BJP,2023-03-12T10:53:14.511Z,38118c58-b6d1-46f5-bbfb-78351e87f7c3,BJP,India,in,874954029237043,Chetan Tyagi BJP,Facebook
@@ -455,6 +464,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 4ae63615-9594-42f8-92f3-c7e6b076ab73,Chandra Prakash Panda,2023-09-24T05:06:57.862Z,39e3334f-818a-4433-b346-18afaffd2b09,BJP,India,in,309116093167710,Chandra Prakash Panda,Facebook
 4afea1d3-ac28-4547-a4aa-2752caa11319,Ramkesh Meena Bassi,2023-09-15T05:06:43.876Z,6b911950-c5d0-4d36-baff-78b60af82682,BJP,India,in,119455747716036,Ramkesh Meena Bassi,Facebook
 4b16a57e-59c9-435e-8808-43138bbc2043,Devi Singh Shekhawat,2023-02-08T05:54:45.026Z,92efc9d3-3a16-49f5-8970-3b2bfeb5297e,BJP,India,in,101206052272845,Devi Singh Shekhawat,Facebook
+4b67f3d4-eb09-4488-a698-1dd7d620c7a6,Yapa Seethaiah BJP,2024-01-18T05:06:44.001Z,f089686a-9312-4a1e-8a0d-7d2d28a293c7,BJP,India,in,213514511842199,Yapa Seethaiah BJP,Facebook
 4b7ea2c6-8d46-4e53-8fd0-c529f10d4e16,Surendra Singh Rathore,2023-06-26T05:08:10.439Z,1dc78d96-b399-40a2-8168-d40fc2bc9588,BJP,India,in,102780615553353,Surendra Singh Rathore,Facebook
 4b898c53-c8b4-43d6-9e51-c29feedd2441,We With MP BJP,2023-05-06T06:53:07.120Z,ba33f120-5bba-417e-860d-1bf624b6c893,BJP,India,in,100265882204744,We With MP BJP,Facebook
 4d1712ec-0a96-4f4c-bb11-6aed5ba21acf,BJP Mahendragarh,2023-03-25T10:52:49.512Z,f4c9d4a5-64c7-4984-be60-36dfe22cd43d,BJP,India,in,107481391588834,BJP Mahendragarh,Facebook
@@ -529,6 +539,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 577607f0-dd99-42bd-a229-8c819b36c4cb,Kalicharan saraf,2023-05-14T06:53:13.253Z,48021a7e-2aa0-41d8-bce1-40a7d9a6859f,BJP,India,in,448208325259711,Kalicharan saraf,Facebook
 5786d220-61ff-470b-acf9-a8c0bc869cab,,2023-03-28T10:53:06.160Z,33212131-1efb-4709-ba42-db8b4d311b5e,BJP,India,in,108714665372066,,Facebook
 57cc5494-aaeb-4e68-91c0-1db5c4d869b2,Priyanka Rani Bagri,2023-08-01T05:07:40.552Z,02625ba2-e3e0-4b18-a2ba-ae580feb1655,BJP,India,in,114766801239705,Priyanka Rani Bagri,Facebook
+57ecb9fb-b4c2-479c-a22b-85d9801a9187,Ankit Chauhan BJP,2024-01-08T05:06:53.274Z,6e483a94-11b0-49c3-bae8-80ab6cd990ee,BJP,India,in,1449727175038758,Ankit Chauhan BJP,Facebook
 57f48267-afac-47ef-9a6d-17a10d06a014,Rajesh Dahia,2023-02-21T10:53:09.115Z,9e3cd136-834f-4e9a-84e3-65e0f84a767d,BJP,India,in,106515505158234,Rajesh Dahia,Facebook
 58293a8e-ec40-4cdf-bc7d-26a51108ddba,Mayank Bairwa,2023-02-15T10:53:06.516Z,79b5920d-a1c9-4654-800d-67df36b97d3c,BJP,India,in,110308551924662,Mayank Bairwa,Facebook
 583182e7-9aa9-4062-927f-f48be4083ea5,Kabootar Baba,2023-09-17T05:06:44.656Z,238cbd69-37b5-4cc8-ac6e-d8bded4d727f,BJP,India,in,102232148992431,Kabootar Baba,Facebook
@@ -566,6 +577,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 5ec89e91-ce47-4188-9e31-07d11e5fb625,Deshpande Rajeshwar Rao,2023-10-04T05:06:50.426Z,3bd8d80d-769c-40be-9d57-51c0ad64577a,BJP,India,in,359094811512515,Deshpande Rajeshwar Rao,Facebook
 5eefe839-dea5-4cc2-920e-3157f30eb83f,Balu lal Acharya BJP,2023-02-07T15:08:07.033Z,1a756e9d-177f-4cea-b20c-7973362b2c0f,BJP,India,in,113577624961901,Balu lal Acharya BJP,Facebook
 5f24198b-4597-4493-9fb4-e58195f99281,Shivratan Sharma,2023-08-25T05:06:35.241Z,d41fa71f-847f-4617-8aed-b08dd76ead4d,BJP,India,in,722332601136297,Shivratan Sharma,Facebook
+5f515529-2a0d-4050-84fd-6a4dee987429,Lal Upadhyay BJP,2023-12-04T05:06:44.323Z,a6a6199f-6745-4925-aece-d2f9a4d87d53,BJP,India,in,104154928247868,Lal Upadhyay BJP,Facebook
 5f5cc894-32f0-4319-8bdb-2ad01c0ff5f8,CP Joshi,2023-02-07T15:08:04.350Z,b79a6eba-f26f-4140-aeb0-7c82122ddc73,BJP,India,in,544920495569144,CP Joshi,Facebook
 5f5d2564-4af3-48a1-909c-c7a3bd58c1e8,Inder Singh Bagawas,2023-07-26T05:08:44.698Z,a1bd46cb-711c-4c3f-b835-9fddba7109fa,BJP,India,in,100368409810514,Inder Singh Bagawas,Facebook
 5f7f4b28-d34a-452a-8de6-510b475b2a62,Chairman Arun Sharma,2023-02-12T10:53:07.204Z,b0e46bdd-e42e-4f78-9cb2-fa64128c5296,BJP,India,in,513622232357932,Chairman Arun Sharma,Facebook
@@ -601,8 +613,11 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 64674a5d-f05f-4b1a-a6ea-da8e6da127eb,Pawankumar Singh Bhati,2023-04-05T10:53:04.544Z,0d9a01a2-727f-4987-bdd8-debbe04b7387,BJP,India,in,626068767790790,Pawankumar Singh Bhati,Facebook
 64b42c58-ca89-4fae-889c-63e767706011,Sandeep Jangid BJP,2023-03-12T10:53:13.682Z,275ff52b-d51b-495f-8187-1ffb60521843,BJP,India,in,108457558410315,Sandeep Jangid BJP,Facebook
 64b5eb15-162a-4ecf-83ea-61f0d55204fc,Ladu Lal Teli,2023-09-24T05:07:01.211Z,2ee4abc4-85b5-4c32-97c1-74581321af06,BJP,India,in,199846427580323,Ladu Lal Teli,Facebook
+654a443a-ca51-4283-bcf5-075ef002399b,BJP Krida Pimpri-Chinchwad,2024-01-02T05:06:37.041Z,783169f4-f216-4ddc-9421-f311cf661320,BJP,India,in,180092421862719,BJP Krida Pimpri-Chinchwad,Facebook
 6568504a-702f-4ea8-bcb0-e7354571a977,Nishank Tripathi BJP,2023-02-09T06:27:41.981Z,c3459565-ab5b-434e-aa00-b7261d3b9178,BJP,India,in,297229797104524,Nishank Tripathi BJP,Facebook
+6585eac9-7533-45e2-b7b4-31f928b5bf4e,Rachit Singh Jadon BJP,2023-11-28T06:16:50.893Z,9d7f5c2d-4c94-44f0-9a43-bff0a7d305a5,BJP,India,in,1015083512015452,Rachit Singh Jadon BJP,Facebook
 65c3046b-b48c-4bdf-a5f2-3163aaeb012e,Narender Ghintala,2023-02-07T15:08:06.268Z,5bed51a4-b134-4665-85f3-9389d51d862c,BJP,India,in,104831868860974,Narender Ghintala,Facebook
+65d7dbc3-3211-48e2-bd24-03dd3b6e883c,Mansi Manoj Deshpande BJP,2024-01-02T05:06:35.860Z,f3eabb7c-4263-485d-ba88-296665123cef,BJP,India,in,871503072986754,Mansi Manoj Deshpande BJP,Facebook
 65eb3414-3642-4959-8ee7-a086f4e0f87b,BJP Dhiraj Agarwal,2023-05-05T06:52:47.164Z,5fceff76-a890-4ecb-afad-56cba593dcc2,BJP,India,in,116217684784522,BJP Dhiraj Agarwal,Facebook
 661ba960-148d-4614-b6bc-6a33a50dc93d,Youth 4 BJP,2023-02-19T10:53:27.291Z,42d882ff-6106-4755-a05e-0ee03c34b437,BJP,India,in,1656810004631832,Youth 4 BJP,Facebook
 6656c85e-2cb7-402f-8141-c30006357854,Mangilal Godara,2023-05-09T06:53:00.998Z,bca24f27-220e-4628-b0bb-2f230eca546a,BJP,India,in,120418961035428,Mangilal Godara,Facebook
@@ -619,6 +634,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 6873a7d7-fc8c-4a5a-b533-c3845b4f2ad6,Aakash Zaildar BJP,2023-02-08T05:54:44.490Z,3f6040f7-9b64-49f6-bff2-8a6278c9f199,BJP,India,in,700171774147955,Aakash Zaildar BJP,Facebook
 688be808-f21f-4434-9011-9493fdae463f,Adesh Yadav BJP,2023-02-07T15:08:07.360Z,e899054c-6bd6-4688-9b65-c38543c89326,BJP,India,in,106456887722695,Adesh Yadav BJP,Facebook
 68a9817c-a1ab-416d-bd69-356fab0903bb,Badam Devi Verma,2023-02-08T05:54:44.344Z,720688a8-bfa3-4d3e-a93f-e3aea22b48ac,BJP,India,in,102643838573054,Badam Devi Verma,Facebook
+68c6c44f-e662-484c-a6b9-dceec4a438b7,BJP Mayurbhanj West,2024-01-17T05:06:46.812Z,b92083dd-0651-4301-840a-f7c80ff32834,BJP,India,in,105281245351526,BJP Mayurbhanj West,Facebook
 68ea8fb9-1f73-4bdc-b8b1-2f2a7f3fae88,Bharat Singh Patel,2023-04-22T06:03:25.818Z,459131ae-f5d7-4ff3-9798-1139c92feafa,BJP,India,in,172830741507048,Bharat Singh Patel,Facebook
 69023838-8817-447f-86af-0a1b0d338fab,BJP Palwal,2023-03-25T10:52:49.404Z,efa1ca2e-2c7c-4d64-a6e2-8d04d067251f,BJP,India,in,558327294318509,BJP Palwal,Facebook
 691e034d-5e50-4546-a828-07417ee602ce,Ranjitsinh Mohite Patil,2023-03-23T10:53:10.556Z,fa389ad0-5432-42de-a188-4ee5125b76be,BJP,India,in,141491449241356,Ranjitsinh Mohite Patil,Facebook
@@ -638,6 +654,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 6b27a14c-8574-415d-8ece-de071d6a8560,Digital Pracharak,2023-03-08T15:41:37.469Z,3cb3469d-6500-4cf2-ae86-79965a62985d,BJP,India,in,102088444609667,Digital Pracharak,Facebook
 6b455e3a-244d-4ef1-9890-b1d261aaa785,Jitendra Shrimali,2023-09-05T05:06:55.771Z,12cae469-6cad-411d-99e3-c1e9588e9cdd,BJP,India,in,110806628166029,Jitendra Shrimali,Facebook
 6bcda849-4b06-441a-baf6-1194a2b48f17,Prem Singh Bajor,2023-09-02T05:06:52.978Z,fb029d60-0008-4ee0-9d4a-297d82d02875,BJP,India,in,825227037631703,Prem Singh Bajor,Facebook
+6be53002-7bdb-4832-bcd8-28a9b74119b5,Pandit Shivam Vashishth BJP,2023-12-12T05:07:52.560Z,af92b679-d875-4eac-8fad-430469d7ac29,BJP,India,in,101152562242994,Pandit Shivam Vashishth BJP,Facebook
 6c236ccc-1b78-495d-b084-3c2935c19daf,अध्यात्म धर्म,2023-09-16T05:06:48.485Z,5f23c71c-605e-4933-8c07-1c574b636a76,BJP,India,in,117006868145803,अध्यात्म धर्म,Facebook
 6c273e7d-6497-4161-8563-17ddd0b79c07,विंध्य बोले हर हर मोदी,2023-09-12T05:06:21.092Z,0a2cd967-bc0c-495f-968d-7281288ea5a2,BJP,India,in,107714979022196,विंध्य बोले हर हर मोदी,Facebook
 6c29b24e-3435-4ea6-8a9f-d8f60d901647,BJP Muktsar,2023-03-09T10:53:19.407Z,ede4b493-05ee-45ad-b612-63edbc87b5ae,BJP,India,in,105179101160939,BJP Muktsar,Facebook
@@ -701,6 +718,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 753e1f6b-d2cf-4304-9add-b472ddc634b1,Mrityunjay Sharma - BJP,2023-03-14T10:52:52.994Z,a465f818-9d14-41cb-ae1e-ffbc06df8083,BJP,India,in,108091173926988,Mrityunjay Sharma - BJP,Facebook
 75481415-5e65-457b-a08e-1644d795747c,Sitaram Poswal,2023-02-08T05:54:45.579Z,66a8fc72-43b9-4179-9dd2-40080a5a4ef8,BJP,India,in,100475508592062,Sitaram Poswal,Facebook
 7572be3d-a6d1-49b4-bb83-2809c9b5055b,Phir BJP Phir Shivraj,2023-06-12T06:52:49.171Z,5932f84d-17a4-4400-bd00-14f5c7d27606,BJP,India,in,103157676137573,Phir BJP Phir Shivraj,Facebook
+758fed31-e7fe-46db-b5f6-aba9d1c9623e,Yogesh Thakur BJP,2023-12-22T05:06:50.917Z,bf6193a9-366d-489f-8ea2-a85d9f61ba5f,BJP,India,in,101091389167329,Yogesh Thakur BJP,Facebook
 75f0f968-2ca4-4365-9216-ad5cd954234b,Sardarbhai Chaudhari - BJP,2023-02-07T15:08:05.401Z,1465f1e8-0fae-4b33-ba3c-9b77679e73b3,BJP,India,in,1384169104959232,Sardarbhai Chaudhari - BJP,Facebook
 75fec276-10f8-4240-9a30-8d1982646d67,Anil Mittal Kekri,2023-09-01T05:06:48.932Z,115f23b6-b73b-4f4c-8735-ec599169813b,BJP,India,in,256016158140722,Anil Mittal Kekri,Facebook
 7605045f-ad4e-44fb-bb6d-4f7a86f95e2a,प्रसन्न मधुकर हर्णे,2023-08-06T05:07:34.178Z,ec7a88db-14e4-441a-9e89-1eb25090d1d0,BJP,India,in,104794245802956,प्रसन्न मधुकर हर्णे,Facebook
@@ -721,6 +739,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 796bed2d-b5ca-49d2-9aff-275b0b83c5cb,BJP Mewar,2023-09-26T05:08:41.362Z,f9b3d3a6-d4a8-40d9-a5e0-9ae5d1d8fc19,BJP,India,in,102119796230074,BJP Mewar,Facebook
 79b79bb2-0823-47c2-85d7-47e5bcb67b6c,Suman Chhajer BJP,2023-03-30T10:53:03.851Z,a25a3b36-1ef6-417e-b216-2eb537026c07,BJP,India,in,105123064268585,Suman Chhajer BJP,Facebook
 79ca234a-a088-486e-922c-2ef2d7cc1897,BJP_Luni Vidhansabha,2023-03-08T20:04:41.926Z,dcd76f4f-12cb-4066-9dc5-e20546874bc8,BJP,India,in,100557946286634,BJP_Luni Vidhansabha,Facebook
+79d931a2-0e45-4755-bd50-0dd97309e669,BJP Supporters for Bankura,2023-12-09T05:06:52.681Z,fe1b4c04-6b4b-44f2-b1d3-6197f619edcb,BJP,India,in,151402704725816,BJP Supporters for Bankura,Facebook
 79ec8b67-f0ca-48cc-80a7-2766aebbd468,Vinay Jain BJP,2023-04-04T10:53:16.379Z,4ac9837a-6bc3-4b7c-92d4-655c34b4578f,BJP,India,in,1600258010213351,Vinay Jain BJP,Facebook
 79f2fc5a-48e3-4414-b2f3-f2d57fd80aa4,Ashok Singh,2023-02-19T10:53:28.256Z,13f37456-b332-43e7-b01b-dd8266652312,BJP,India,in,103964990974858,Ashok Singh,Facebook
 7a20318f-d40b-4895-9b66-9921e2a64a2d,Surendra Singh Rathore,2023-02-07T15:08:04.991Z,e9b57b15-1bc8-4cd3-96e8-11661af824cd,BJP,India,in,113298644483287,Surendra Singh Rathore,Facebook
@@ -744,6 +763,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 7c424df7-1d68-4752-a5dc-401b1ca323d6,Girish Dwivedi   BJP,2023-02-08T05:54:45.128Z,50400243-a23f-4a5e-9313-fd9618e48e92,BJP,India,in,1938673766349210,Girish Dwivedi   BJP,Facebook
 7c5e696d-289d-456d-af44-2ad7b733f7be,Jagdish Chouhan bjp,2023-07-12T14:59:52.096Z,76dd892e-3be9-4049-8fd6-7ee3e4a63671,BJP,India,in,110214955464181,Jagdish Chouhan bjp,Facebook
 7c6839ff-cb9a-495e-a2c6-d872c7dfb31b,Vimla Devi BJP,2023-05-05T06:52:45.068Z,4a275c07-c301-4c0f-9e70-0c65c47538e2,BJP,India,in,116539751422865,Vimla Devi BJP,Facebook
+7c6eb022-b6b2-4a80-959e-aec37211c8ee,Kirat Singh BJP,2023-12-06T05:06:55.178Z,cd518047-a691-4fab-927a-850a58e81671,BJP,India,in,121667109234698,Kirat Singh BJP,Facebook
 7c7c9871-f0eb-4cc0-9754-71c49c063404,Venu Ranjan Bhadauria BJP,2023-03-08T18:07:20.565Z,6d9caf0f-1800-4f45-a8ee-af1359512aff,BJP,India,in,104963855825788,Venu Ranjan Bhadauria BJP,Facebook
 7cdbccd4-4f85-4b63-9341-b7209259bb70,Anchal Sonkar,2023-08-31T06:13:59.882Z,568bb548-98d0-4c25-b99d-ec5ab7378424,BJP,India,in,123722097389869,Anchal Sonkar,Facebook
 7d123e5b-a3ab-4b3f-9a3e-92391da2c91b,Dr. Surendra Singh Shekhawat,2023-02-07T15:08:06.279Z,4283223e-3b85-45f4-9924-d9264fafe76d,BJP,India,in,2370311926329271,Dr. Surendra Singh Shekhawat,Facebook
@@ -801,6 +821,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 8458430d-cbc0-43b9-8e67-1f9b56a04f5d,Rajendra Rathore,2023-02-07T15:08:06.995Z,6940f5ae-bfeb-4b7d-a988-9456489384d9,BJP,India,in,469343139809648,Rajendra Rathore,Facebook
 84ab9e04-cc0a-4609-8c69-13480428eb24,Sushil Katara,2023-06-26T05:08:10.621Z,ccb4c361-4693-4a45-9f5b-52caf858818e,BJP,India,in,1826781307533290,Sushil Katara,Facebook
 84b9b913-b738-496b-992d-de47e0477778,Banshidhar Khandela,2023-08-12T05:07:38.953Z,1553a7bd-cfbd-498a-aed1-251ba6f034dc,BJP,India,in,269191633552700,Banshidhar Khandela,Facebook
+851cb7dd-3404-4b37-b99c-62c39ee78d17,Ravita Bhardwaj BJP,2023-12-11T05:06:52.045Z,40627d14-36b0-4d95-ba6d-f83b8e8a878d,BJP,India,in,101472535164219,Ravita Bhardwaj BJP,Facebook
 8542d87d-6c20-44d6-a837-1056049f9258,Hari Kishan Khichar,2023-05-31T06:53:08.268Z,2c715ed9-3c76-4be1-a463-d77bf5dadad0,BJP,India,in,107866542325480,Hari Kishan Khichar,Facebook
 85898177-b573-4a0c-8177-b4d4c08ec0db,BJP Korei,2023-11-01T05:06:58.697Z,d8118ac7-e827-45e3-850d-2e70dfe9b00d,BJP,India,in,114461664838823,BJP Korei,Facebook
 85b489c8-906f-4614-a2a8-235f60ca2ec1,मध्य प्रदेश मांगे फिर से मोदी,2023-08-16T05:07:27.350Z,529e798a-5312-484e-8386-154cdebdf6ea,BJP,India,in,104265332338241,मध्य प्रदेश मांगे फिर से मोदी,Facebook
@@ -808,6 +829,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 85d6c85d-c9b6-45d4-80f2-2d64d514011f,Laxmi Narayan mundel,2023-09-07T05:06:35.168Z,15469fb6-822a-4dae-8edf-eb35d2d3c3b9,BJP,India,in,459985271085327,Laxmi Narayan mundel,Facebook
 85efd92d-af2d-4919-b74a-b8073d9362a9,K.C. Verma IAS,2023-02-15T10:53:06.649Z,0d314fff-3b9a-4e3f-80c7-3cc3fae073d6,BJP,India,in,107853218495571,K.C. Verma IAS,Facebook
 8607334c-43ed-4e06-b649-6dc408c771e2,Capt. Meenu Beniwal,2023-02-08T05:54:41.636Z,b7560622-65f5-4deb-b6b6-067dc8845669,BJP,India,in,922534064468145,Capt. Meenu Beniwal,Facebook
+863eb5c4-854b-48d5-b33a-2df14846578c,Nikit Meena BJP,2023-12-01T05:07:53.476Z,453ecb96-97a7-4a1e-ac6a-21b8109f20d1,BJP,India,in,100777631294430,Nikit Meena BJP,Facebook
 8668e0cf-c4f6-461f-80db-7283788c14f3,Madan Kaushik,2023-02-07T15:08:05.313Z,152889d9-586f-4b7c-be82-fbc063572003,BJP,India,in,183635768462259,Madan Kaushik,Facebook
 867edc57-ce77-465d-878f-e2c72e6a34d8,Vikas arora BJP,2023-03-08T10:53:12.895Z,bfa7454e-ee3f-4a18-8908-ceca3e9b6afe,BJP,India,in,104325618829983,Vikas arora BJP,Facebook
 86865bf8-fc91-4060-ae63-c6e953749813,Poster Nation,2023-06-27T06:57:01.696Z,769f82ab-e13e-4742-975c-e299e712a65d,BJP,India,in,127418046946464,Poster Nation,Facebook
@@ -836,6 +858,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 8a598b89-b453-4043-bc50-036ca4f1096b,खण्डेला की उम्मीद बंशीधर खण्डेला,2023-09-24T05:07:00.373Z,ddbbff5f-ade5-47e8-9420-d71fd6b3e9c9,BJP,India,in,102983534846081,खण्डेला की उम्मीद बंशीधर खण्डेला,Facebook
 8a6aceb8-ea79-424f-97c8-766436397f09,Dilip Singh Shekhawat,2023-06-08T06:53:01.247Z,0c2ff9b7-0026-4073-a391-0f73758212cc,BJP,India,in,237215823666068,Dilip Singh Shekhawat,Facebook
 8a709bef-c1a3-49f4-9386-8ce987be8937,Rakesh Jangir,2023-08-09T05:07:25.584Z,3cd18969-0645-4747-b95b-572870359ce3,BJP,India,in,109277358356132,Rakesh Jangir,Facebook
+8a7f9b77-f2e4-487a-aa28-398643146e4d,Rakesh Shukla,2023-11-04T05:06:44.225Z,3d8384a2-6c05-4a98-977a-cbf904320fbe,BJP,India,in,168817446308195,Rakesh Shukla,Facebook
 8a9d069d-6c01-4e9f-88d3-c92245430d4c,Rajiva Choudhary,2023-06-23T05:16:38.403Z,6edc181f-6d81-42af-8d04-f8a7793b7f99,BJP,India,in,106066655852686,Rajiva Choudhary,Facebook
 8aaee1cb-6e24-4600-bf87-e4d7a08d97c0,Rajesh Katewa,2023-03-04T10:53:20.436Z,bb871b34-7efa-400a-b00e-fb08a0540f95,BJP,India,in,106517211279292,Rajesh Katewa,Facebook
 8abae687-2dcb-41d5-ae01-9aa57feb743b,Manan Dani,2023-02-11T10:52:58.472Z,cbff761f-fb5a-42e3-9004-8499331bb640,BJP,India,in,224787738121110,Manan Dani,Facebook
@@ -856,6 +879,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 8c987764-8c97-4db6-8c9a-e3260f9569fa,जियो जबलपुर,2023-06-12T06:52:51.763Z,af4d1687-fc2b-4ea0-af22-e4db2e153f61,BJP,India,in,118172601287726,जियो जबलपुर,Facebook
 8c9d3cc3-dd85-4d35-83ac-715f5b7c4199,BJP Hyderabad Golconda District,2023-09-02T05:06:51.945Z,d5a362d5-f962-4409-aa15-6169d952ce69,BJP,India,in,111864104329681,BJP Hyderabad Golconda District,Facebook
 8cac3d47-298c-44aa-82db-3e7cfa4dc147,Balram Patidar,2023-08-16T05:07:29.654Z,c4539817-2c97-44c1-906a-47ee7e8308d9,BJP,India,in,116204488145501,Balram Patidar,Facebook
+8cc46a98-53e0-4598-b538-16cdc5af2b0c,Omprakash bijarnia netarwas BJP,2023-12-29T05:06:52.899Z,4a5e2ef8-1500-4551-b2cc-b369fd9ce9a6,BJP,India,in,106765291019732,Omprakash bijarnia netarwas BJP,Facebook
 8cd0163d-5ade-4d50-baa8-808669a7e796,Vijay Khetan BJP,2023-04-13T10:53:04.913Z,99daa586-838c-4e45-8403-bc667174ff84,BJP,India,in,219964054802262,Vijay Khetan BJP,Facebook
 8cd253e6-43da-4cf7-a9e1-fe6e3a62b9a1,Vishnu Singhal - Sanora Wale,2023-08-27T05:06:51.228Z,cf275295-3047-4a7e-8c84-15931deeffba,BJP,India,in,105576918812759,Vishnu Singhal - Sanora Wale,Facebook
 8d87d8c5-e237-48a4-a14e-4ef17789635d,Rajeev Sharma BJP,2023-02-09T06:27:42.500Z,1dc78cfd-d0be-4d01-b2d6-7b6ff040962d,BJP,India,in,1109826479083738,Rajeev Sharma BJP,Facebook
@@ -911,6 +935,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 95fe5724-d411-4095-9a9c-80d51e31659a,Narendra Modi for PM,2023-06-23T06:19:41.915Z,bce48f61-12a2-4dd3-ba58-9f383744f4f2,BJP,India,in,283160581797691,Narendra Modi for PM,Facebook
 960cf147-6283-4fe2-83eb-2e9996a23d8f,Shailendra Valmiki BJP,2023-04-26T06:53:17.574Z,b12677bc-7478-420d-a791-30a23f5a710d,BJP,India,in,157151891712325,Shailendra Valmiki BJP,Facebook
 9634894e-1360-406d-9c4a-f182b496806d,BJP Kattappa,2023-11-15T05:06:52.720Z,f11cfdc5-a32c-43ba-a664-6e61cb4bce31,BJP,India,in,101406762370584,BJP Kattappa,Facebook
+9667e462-7d4f-4976-a566-b73ee65af3b5,Satyam Pujara Bjp,2023-11-04T05:06:46.625Z,22c3e5b0-7532-42d6-a483-179fa6d4fe5d,BJP,India,in,109414258701660,Satyam Pujara Bjp,Facebook
 9682b598-019d-4f95-8e62-41887e707f98,BJP4Dhar,2023-09-26T05:08:41.242Z,7635a014-aba0-4810-a4c4-02f1f3ac0443,BJP,India,in,163307327485949,BJP4Dhar,Facebook
 9739fdb5-ad3b-44ce-bdcf-ff01f83d3d9b,Advocate Rajat Bhargava,2023-02-07T15:08:05.896Z,ff12fd6e-7a11-4357-8995-9664a83c1257,BJP,India,in,106261054498841,Advocate Rajat Bhargava,Facebook
 973c062c-0215-46f2-ba40-d3d7a733fa81,Rameshwar Sharma रामेश्वर शर्मा,2023-02-22T10:53:25.516Z,5ddf2875-c0aa-4395-80b6-d3825dbbdf13,BJP,India,in,693448470757432,Rameshwar Sharma रामेश्वर शर्मा,Facebook
@@ -926,6 +951,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 988d890c-63a1-458a-a795-6c0ad1f5a9bf,BJP NAMO INDIA,2023-07-19T06:07:14.672Z,3accd1fa-cad8-4b3d-96c7-08ba03b0602b,BJP,India,in,101011653074767,BJP NAMO INDIA,Facebook
 9894ac50-d52c-4e34-bb72-6589d18ef35d,Mukesh Godara,2023-04-16T15:05:21.767Z,d8d0e159-ba79-4da5-b5f9-fa6fdc837871,BJP,India,in,276872492452193,Mukesh Godara,Facebook
 98a0780f-cf57-4827-8bcd-cf9402f008bd,Arjun Lal Meena,2023-03-27T10:53:15.981Z,3c1caed1-edb9-4f1b-b228-ea52dde8edc2,BJP,India,in,614709538594391,Arjun Lal Meena,Facebook
+98c3bc65-306b-46ba-be21-7c1534413312,CA Shriram Atal BJP,2024-01-02T05:06:36.692Z,50bc0f39-c18a-4992-91b2-96add4b327aa,BJP,India,in,103907892364091,CA Shriram Atal BJP,Facebook
 990fc5f8-2c93-408b-94f6-86d50863e7ab,Gopal Lal Sharma,2023-02-07T15:08:06.904Z,809bd8f8-e433-4d6b-af60-993d164f7505,BJP,India,in,1336863726383886,Gopal Lal Sharma,Facebook
 99344c23-94db-42ec-ae1b-f887921577ce,Mama ki Budhni,2023-08-20T05:07:33.665Z,d06187d5-63af-4e36-b5fb-8c21f5db508e,BJP,India,in,104957932275691,Mama ki Budhni,Facebook
 9954ef9c-5420-470c-b46d-f9eb71ada442,Lagishetty Srinivas netha,2023-10-18T05:06:50.394Z,c062430e-3bbf-46cf-b461-89bcebe95e7c,BJP,India,in,114757401497518,Lagishetty Srinivas netha,Facebook
@@ -937,6 +963,7 @@ id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,co
 9a359c15-956e-4364-9489-95727cd4b459,arvindjadhavbjp,2023-07-20T06:07:17.699Z,fbe8cc5c-be83-4342-807b-0a022d68727b,BJP,India,in,111635611997202,arvindjadhavbjp,Facebook
 9a88300b-06bf-4d58-846e-15884c950864,Mahendra Singh Majhewala,2023-07-17T06:32:02.686Z,eefe40aa-2dc8-4fbf-ab15-2550dff77907,BJP,India,in,108181107782019,Mahendra Singh Majhewala,Facebook
 9a98b32a-5648-4c37-b551-897642f94f35,Santosh Joshi Jay Shiv,2023-06-23T05:16:38.509Z,3c8b8d82-3f48-46fd-bd36-a2d77d1106f5,BJP,India,in,110263442035702,Santosh Joshi Jay Shiv,Facebook
+9a9d505d-c473-4170-9a9e-1d2d094c8f42,Er Nitin Dhobi BJP Bharatpur,2024-01-16T05:06:53.581Z,16d8cbbc-e9bc-45fb-8fc0-19dbb7e04937,BJP,India,in,197309113470376,Er Nitin Dhobi BJP Bharatpur,Facebook
 9abd26ce-50f3-4ad7-9ed2-5d7315d0b620,Parmod Yadav BJP,2023-02-11T10:52:59.128Z,ae3dca03-3132-492c-bad5-a6e86cc7cdcc,BJP,India,in,129532520878102,Parmod Yadav BJP,Facebook
 9ae96c9c-84a0-4833-a7e6-9c6be55ad248,"Prakash Harbola, Bjp",2023-06-02T06:53:16.542Z,1e9e928e-cb2f-409b-87e4-b29572534d25,BJP,India,in,1581799598738797,"Prakash Harbola, Bjp",Facebook
 9b4ae58a-026c-470f-8ba3-1f5d36a8f209,BJP Karnataka Raita Morcha,2023-02-07T15:08:06.879Z,57414137-55cd-45c9-9601-18f5334f7e71,BJP,India,in,103434492387110,BJP Karnataka Raita Morcha,Facebook
@@ -1049,6 +1076,7 @@ add94fad-f0ad-4aff-9cc3-4b629ca6d394,Pankaj Jain - BJP BahadurGarh,2023-02-07T15
 adf18dbc-b2c8-4f9a-baa5-561e82ea7dd9,,2023-04-01T10:52:52.004Z,7bcef191-2c8f-4a00-bb4a-d2df0e71ecee,BJP,India,in,107525265342194,,Facebook
 adfd5684-688b-4931-b00f-16cbedf709a7,Saroj Karwasra,2023-03-25T10:52:48.840Z,5d4d57c9-def7-4725-99c5-483555764564,BJP,India,in,105147161396958,Saroj Karwasra,Facebook
 ae51f2e5-517c-4c1d-ab80-dadd1645dbfd,Thouti Nandeeshwar Goud,2023-10-14T05:06:50.137Z,fb50c049-fcc9-440a-9fb1-b6c757ee41ac,BJP,India,in,1834474546767694,Thouti Nandeeshwar Goud,Facebook
+aebe91bb-eb53-473b-ab3d-f1b0b09b9e73,Doulat Nayak BJP जिला संयोजक,2023-12-28T05:06:54.353Z,32600e21-a97e-47c5-8dc2-bcb8ce366e42,BJP,India,in,108797604699862,Doulat Nayak BJP जिला संयोजक,Facebook
 aed41a4f-16d6-45b9-9b6e-8674fdf88dd4,BJP SC Morcha Ludhiana - Urban,2023-07-31T10:55:26.374Z,937b3fea-0ced-4ab0-94c3-ba44b7af3b32,BJP,India,in,104618305980027,BJP SC Morcha Ludhiana - Urban,Facebook
 aedf4443-a5e1-487d-b40a-c411ffa0510c,दिलीप मुदगल BJP,2023-07-21T05:07:53.922Z,6b087535-abee-48f8-a455-70258aa440ca,BJP,India,in,104487432684430,दिलीप मुदगल BJP,Facebook
 aef961ae-763c-439d-8320-03bf19d65a53,Jitu Jirati,2023-10-07T05:06:53.134Z,81a30ae1-e02d-40b0-9196-39727e8840b1,BJP,India,in,399071013535062,Jitu Jirati,Facebook
@@ -1059,6 +1087,7 @@ afa40a42-5d18-4c29-a40f-32ddda8ef691,Gajendra Singh Patel,2023-02-07T15:08:05.98
 afb80c2d-b779-47ff-ba9b-89493a1e4175,BJP Gajanand Kumawat,2023-10-06T05:07:16.794Z,52299d8d-044b-4c87-8096-5adb183aa069,BJP,India,in,115156541600559,BJP Gajanand Kumawat,Facebook
 afc8f5e7-189c-47ca-9267-361a64f13c6c,Alok Ahuja,2023-07-12T14:59:51.459Z,4130978d-b584-4f80-bf43-bd43db021f57,BJP,India,in,113793821677429,Alok Ahuja,Facebook
 afe823a7-8b8b-4203-a19d-e6c89328a662,Varsha Raman Chaksu,2023-07-31T11:03:37.389Z,7d53e09d-ad81-48f7-96a8-f3aaac959410,BJP,India,in,108875768948514,Varsha Raman Chaksu,Facebook
+afff87f1-0d2b-41fc-beaa-90d7c002ca86,Manish Shukla BJP,2023-11-29T05:07:51.797Z,89e7af1c-911b-42ec-b06e-3e0e4b01f49f,BJP,India,in,629730010462685,Manish Shukla BJP,Facebook
 b011e96b-7940-40cf-b8ca-7f56cc168a98,Sunil Dutt Dwivedi,2023-03-01T10:53:11.665Z,4c0ae2f6-884c-4da3-9dc4-aec67fecf235,BJP,India,in,490132364411397,Sunil Dutt Dwivedi,Facebook
 b04d93d2-2b21-4044-9bd6-6f6e95601b3a,Jitendra Sharma Bansur,2023-02-11T10:52:58.737Z,2798f36e-847f-493c-833a-330f94f2bcb4,BJP,India,in,796872737016939,Jitendra Sharma Bansur,Facebook
 b0730728-8e03-4034-babe-fc44e688db34,Acharya Hari Krishna Shukla - BJP,2023-07-04T06:16:19.074Z,fd54a0cb-f76e-46aa-bc27-0520d42f7c47,BJP,India,in,106891542421064,Acharya Hari Krishna Shukla - BJP,Facebook
@@ -1067,6 +1096,7 @@ b0c492c1-67c1-4dc8-aff5-8df97bec40cb,Vikram Bansiwal,2023-07-31T12:51:53.690Z,af
 b0c7d87c-5b34-46b7-be05-2c3d18be2801,narendra_mbjp,2023-02-23T10:53:14.163Z,3012deff-4c7f-4e88-9bb7-c10dceaa8be2,BJP,India,in,104906762435622,narendra_mbjp,Facebook
 b0de56e6-eae6-4f92-a5cb-a5769755a3e9,Rohit Sehrawat - BJP,2023-02-07T15:08:07.891Z,21036bc9-d27c-40ae-9730-742adf958777,BJP,India,in,141796253017351,Rohit Sehrawat - BJP,Facebook
 b0f14804-09ec-440d-86bc-4987876a6b84,Mamta Yadav BJP,2023-09-24T05:07:00.466Z,103a2cc2-828b-4bc3-b06a-d8f7f6d3826e,BJP,India,in,111473091445002,Mamta Yadav BJP,Facebook
+b135bae5-110b-4e2b-8bf2-1d02bbfb81b8,Sudhanshu Gupta Bjp,2024-01-22T05:06:43.756Z,0b7c840b-f355-40f9-a7af-032ba5b2525d,BJP,India,in,195578533631797,Sudhanshu Gupta Bjp,Facebook
 b14203e1-3c62-4788-9d2d-773fe8bc833a,Bhilai Breaking,2023-10-01T05:07:02.916Z,dfd5490b-60f1-4db5-847c-5413f2db10dd,BJP,India,in,112222708640784,Bhilai Breaking,Facebook
 b14cfc55-d99c-4bcd-b338-044817bcca33,Ramveer Shahbadi BJP,2023-02-11T10:52:59.154Z,19ff1c64-53ac-487a-9062-0b7aa609f0b4,BJP,India,in,538285896517078,Ramveer Shahbadi BJP,Facebook
 b1618605-e873-48d0-a47c-42e988132285,raju.panditt.bjp,2023-05-09T06:53:01.537Z,14c01f5d-7a80-4766-9100-6db6f49f5cd4,BJP,India,in,100877779538082,raju.panditt.bjp,Facebook
@@ -1101,6 +1131,7 @@ b6520052-2037-4227-bc36-5a99e2df7a13,Shravan singh rao,2023-06-07T06:52:46.127Z,
 b66af6c9-8e3e-4f42-89dd-fc6471248b11,Manish Goswami Bjp,2023-06-16T09:33:09.528Z,fb818f35-93e6-41d8-a4cf-a3fd4855425a,BJP,India,in,100247985655213,Manish Goswami Bjp,Facebook
 b6aa74fb-0331-4e3a-969c-3ebdc41da86a,"उम्मीद की गर्जना, हमारी दीदी अर्चना",2023-08-12T05:07:39.041Z,89ec1636-93a9-4882-bec9-f97e4a2b4b61,BJP,India,in,113226521814475,"उम्मीद की गर्जना, हमारी दीदी अर्चना",Facebook
 b6f1ad88-6028-4e8d-a3f3-04507b0ed0dd,Sanjay mundhra,2023-02-07T15:08:04.917Z,ca5d129f-033f-4aa0-821e-35a5c59b549d,BJP,India,in,1344803972217616,Sanjay mundhra,Facebook
+b6f848fc-e1c2-46c7-b9fd-be2bf7c90116,Ramji Parihar BJP,2024-01-14T05:06:34.205Z,1ee6fee0-1180-4241-bec3-c3369a978e39,BJP,India,in,101954905150711,Ramji Parihar BJP,Facebook
 b70179ce-31d5-4615-a1f3-212ba32cc5f8,BJP Uttar Pradesh,2023-04-02T10:53:12.529Z,2471eb58-f48a-4279-bae6-ef7e93b33690,BJP,India,in,1471581409720618,BJP Uttar Pradesh,Facebook
 b709249c-06be-4b90-b88b-76ad8fef3dd0,बुंदेलखंड बोले मोदी मोदी,2023-09-09T05:06:48.120Z,278912af-51cd-4b93-ad54-5d88056578ba,BJP,India,in,110883421982454,बुंदेलखंड बोले मोदी मोदी,Facebook
 b710ed53-0737-4716-b127-aaaeff76420e,Rajendra Mehra BJP,2023-02-21T10:53:10.962Z,47aa1d00-35c7-4fa2-9d32-e730f21ad8c3,BJP,India,in,237101380820431,Rajendra Mehra BJP,Facebook
@@ -1288,6 +1319,7 @@ d8a759e0-7f23-4703-a6d1-3fbf460b8e3e,ashubhatibjp,2023-06-30T05:07:33.403Z,aa12d
 d8bc6654-aef3-4457-82a2-1529dd5ef10d,jayantsinhabjp,2023-05-05T06:52:47.166Z,5595d1c5-705c-42b2-a1f7-29b55bca4fae,BJP,India,in,103757992711344,jayantsinhabjp,Facebook
 d91752f6-6b47-4819-9f49-570ed47d202e,Karnataka BJP Balaga,2023-02-15T10:53:06.727Z,11b1f231-7d6f-4b2b-b677-0cfd40242479,BJP,India,in,100406838759461,Karnataka BJP Balaga,Facebook
 d94b52c0-5301-4557-beae-0852b4eb8b4d,BJP Athani,2023-02-27T10:53:18.510Z,d0795723-c753-4f78-851b-ae4f6682be6f,BJP,India,in,112049938397383,BJP Athani,Facebook
+d9548d72-3878-41b1-b5c0-26d6e5f07ebd,BJP Jan Yojana,2024-01-05T05:06:49.457Z,a658800a-faba-43fa-a0f3-68ca703977f5,BJP,India,in,134185526451358,BJP Jan Yojana,Facebook
 d959ca12-6ec5-46fc-b0c3-3ff945cfc4b9,Adv Niharika Kamal BJP,2023-04-30T06:52:40.360Z,e8892a9e-c462-4c67-aa44-d3e27df33846,BJP,India,in,111588098522661,Adv Niharika Kamal BJP,Facebook
 d971fff4-79a6-42ab-9325-1e634e1d9363,Narendra Singh Dhakad,2023-02-24T10:53:16.196Z,4dc015c7-0f89-4ce3-bdeb-7e1e7bec2e0e,BJP,India,in,1172144176256789,Narendra Singh Dhakad,Facebook
 d9775e44-58c4-4c48-a37e-e68f0c4db3ff,Preeti Rakesh Sharma,2023-10-20T05:06:57.512Z,ae23384b-7cb4-4bbb-a8e0-92025c7876ac,BJP,India,in,107496931084967,Preeti Rakesh Sharma,Facebook
@@ -1304,6 +1336,7 @@ db4690cf-7cc3-4543-b32e-635c6fa6adf5,ChandraVeer Singh Chouhan,2023-03-01T10:53:
 db4a3572-2d2a-4dff-bbd5-6931e2b87634,सागर संवाद,2023-06-10T06:52:47.369Z,a3953194-2121-480c-b9eb-71d5f48d19c0,BJP,India,in,113807188397633,सागर संवाद,Facebook
 dc26dd5d-9270-447d-b7dd-62bd8955b20c,Godhavari Anji Reddy,2023-03-02T10:53:14.533Z,3f8b6e2c-c362-4b12-bb06-a130acceffa3,BJP,India,in,1923448157898612,Godhavari Anji Reddy,Facebook
 dc2dc379-9ee0-4ad5-b1ad-a6b2c8105530,आपणीं दिया कुमारी,2023-09-25T05:06:57.012Z,011db1ec-623d-4ca2-b188-8f0e7cf1dce6,BJP,India,in,136594512859523,आपणीं दिया कुमारी,Facebook
+dc3d82fb-703c-4741-aba1-3ade7436b42f,Rishikesh Pandey Bjp,2023-12-25T05:06:58.788Z,c306cd88-a410-4a5b-9545-9d3dd17892dc,BJP,India,in,100321609612884,Rishikesh Pandey Bjp,Facebook
 dc457680-3318-4ec0-aac1-a3995ce0c2a9,Inder Yadav,2023-09-02T05:06:53.966Z,d058d018-7c86-444a-9a5a-5498687d6ab9,BJP,India,in,106512815782576,Inder Yadav,Facebook
 dc5a2882-8ad7-47b7-a288-f5d531aec34c,Yogesh Verma BJP,2023-02-07T15:08:07.556Z,5464fc24-37a9-4ead-ae64-1bfd74127767,BJP,India,in,204141543414942,Yogesh Verma BJP,Facebook
 dc7dea87-2938-412c-b781-d8d0dcd6c5b1,BJP West Bengal,2023-02-10T10:53:20.283Z,5badf948-bd72-486f-93e5-152a54cf081f,BJP,India,in,150106531736299,BJP West Bengal,Facebook
@@ -1316,6 +1349,7 @@ de57c449-5d15-4f8f-baf8-8e2d13767b77,Rao Dharma sarpanch,2023-08-27T05:06:53.197
 de64406a-8cbc-4499-a3fe-04d0e9dacd41,Dev Narayan Latala,2023-04-08T10:53:07.060Z,74aaef85-b12f-4872-b68c-061cd53be8fc,BJP,India,in,107183605667962,Dev Narayan Latala,Facebook
 de8f366e-5a7a-4a07-874f-64542394fc63,Bhupesh Singh Rajawat,2023-07-03T06:15:49.245Z,f3cdc9fa-869f-4fce-bf48-7dd3225f4a0b,BJP,India,in,1569608233146939,Bhupesh Singh Rajawat,Facebook
 dedb3a63-6989-4a6f-9485-8af2cc3cfb65,Hardik Patel,2023-02-07T15:08:04.895Z,4a78b7d0-5a5d-4b85-ae4c-7584f9b7b9c6,BJP,India,in,1757441471197224,Hardik Patel,Facebook
+df29bc0f-8ae5-462d-821b-2644558d4b80,Dhansingh rawat bjp,2023-11-09T05:06:42.234Z,b71669f4-6d2a-450a-a8c1-7360075a4af9,BJP,India,in,105199021668895,Dhansingh rawat bjp,Facebook
 df6d9678-0c53-4172-8158-13eca9139385,Bjp help center india,2023-02-27T10:53:17.602Z,6e67523d-b945-4220-915b-570bef18d5ef,BJP,India,in,236364486833201,Bjp help center india,Facebook
 df9345a0-5c67-4fa3-b101-eb1806eb3649,Pandit Ashish Vats BJP,2023-06-23T05:16:38.711Z,9bce5a49-6d70-48a4-b92b-dac80b07c56e,BJP,India,in,140063452871406,Pandit Ashish Vats BJP,Facebook
 dfbf6ff6-8a9b-428a-bdd2-07b176a4e157,Amit Kumar Singh Bablu,2023-03-03T10:53:14.485Z,81d858b5-36c9-4133-bac1-5cb47b50a057,BJP,India,in,403770013738913,Amit Kumar Singh Bablu,Facebook
@@ -1393,6 +1427,7 @@ ecf0c1a5-14cd-4f4d-be58-7be1be7f5188,Arup Kumar Nath BJP,2023-03-01T10:53:11.580
 ed416baf-5c16-49de-85a8-bb66aca6b77a,Rikesh Sen,2023-10-22T05:07:00.175Z,33bc071e-a19e-401d-ab87-77fe34653cfc,BJP,India,in,1794178100819828,Rikesh Sen,Facebook
 ed6b74d7-87b6-4169-90d0-3ec6df493636,हमारा नर्मदापुरम,2023-07-13T12:39:34.331Z,5c1c9290-d583-476a-a557-cd2e4014bf26,BJP,India,in,101052426350204,हमारा नर्मदापुरम,Facebook
 ed720ba4-a950-4997-960f-dee5c8f024d9,Sangeeta Shah Bjp,2023-03-26T10:52:56.513Z,a39a1fb2-295e-4e7a-80ea-42abc098d00c,BJP,India,in,104544725898832,Sangeeta Shah Bjp,Facebook
+edb1ce39-5550-43f6-a1d4-8d2fa5046e7d,Gkn Tamilnadu Bjp,2023-12-21T05:06:38.316Z,f72364de-6cb9-4bff-a4b2-be3c0a46ca0f,BJP,India,in,162155700321426,Gkn Tamilnadu Bjp,Facebook
 ee182747-1d22-4745-8935-54fad118207a,Harsh Dwivedi BJP,2023-08-05T05:07:42.587Z,3788c7ba-3da7-445a-89fc-9b9131f562d7,BJP,India,in,1374878792784524,Harsh Dwivedi BJP,Facebook
 ee275161-6e10-4a70-b0db-5fb2f18f9c6d,Jitendra Singh Saitrau,2023-02-09T06:27:40.814Z,0ee29150-0a89-49d5-85be-b07665c19a82,BJP,India,in,516087358503724,Jitendra Singh Saitrau,Facebook
 ee413aaf-08b5-4f36-a0df-520aec11d1d9,Shyam Sunder Burugula,2023-06-19T18:24:54.532Z,6fcdfd7c-72b1-4686-b552-dc70811b9ecf,BJP,India,in,484296171607849,Shyam Sunder Burugula,Facebook
@@ -1414,6 +1449,7 @@ f2e14fe8-b748-412c-9879-6b82f67951c1,Vinod Khandekar,2023-10-30T05:06:46.873Z,fe
 f30becee-d9d2-4166-8eab-8f80231a1ecd,Mukteshwar Ojha Bjp,2023-02-11T10:53:00.239Z,51bd2d15-73d5-46ae-8a81-84a1fa2ad57e,BJP,India,in,419532684892911,Mukteshwar Ojha Bjp,Facebook
 f353a169-b26c-4b06-b88d-d14b6d58135a,BJP4Harda,2023-09-26T05:08:41.561Z,ba6bc259-ef1e-468b-8c76-c2218691ca29,BJP,India,in,950708091695400,BJP4Harda,Facebook
 f38c24fe-e1f1-4fc8-8be4-48e33655bd65,Madhya Pradesh Report Card,2023-07-10T06:51:10.858Z,04d8af05-1cd3-4a9f-87c5-37dc93b40a3b,BJP,India,in,101655965842373,Madhya Pradesh Report Card,Facebook
+f3941465-3a4a-410e-8935-799ada04aed9,गुनगीत सिंह बग्गा BJP,2023-12-06T05:06:55.753Z,54699df0-732a-46c5-b358-15c733d42547,BJP,India,in,624366217581703,गुनगीत सिंह बग्गा BJP,Facebook
 f3954ef9-888b-47d1-b922-e852967cd686,Maha singh choudhary mundawar,2023-08-14T05:07:06.467Z,bc297cd7-11fb-42e0-b7a8-5b3f40b2c89b,BJP,India,in,112973665075442,Maha singh choudhary mundawar,Facebook
 f3b0672b-f7a7-491d-a967-8137d93108d8,Shakti Singh Rawat,2023-02-15T10:53:06.820Z,440dfaed-4d51-4a64-8683-3481ca6a84ed,BJP,India,in,964290356963781,Shakti Singh Rawat,Facebook
 f3b4866e-c86e-475c-b96f-06c30fbb2b1e,Radheyshyam Porwal Bjp,2023-08-30T05:06:51.781Z,a8236657-e699-46f1-a629-ac17ff831b53,BJP,India,in,712356092440858,Radheyshyam Porwal Bjp,Facebook
@@ -1421,6 +1457,7 @@ f3dd5ca5-a943-488b-8a25-7c20ecc8ddde,Chandupatlakeerthi Bjp,2023-07-18T06:07:05.
 f4017464-0e5e-411a-9d92-f60513a33e63,Annamalai BJP,2023-03-08T14:42:49.646Z,fc2a0149-bdbc-4214-b857-458330e4006d,BJP,India,in,101843071656671,Annamalai BJP,Facebook
 f424df20-21d4-46ee-a305-76f4bdd72f09,Team Madan Lal Balotia,2023-10-14T05:06:52.495Z,af068408-faec-4fe1-bfb3-cfb6ee7bd30d,BJP,India,in,132528136603977,Team Madan Lal Balotia,Facebook
 f4332791-8c8a-4a71-926b-033da905bf92,Dhanpal Suryanarayana,2023-02-07T15:08:04.335Z,08f154da-0cd0-4dd3-b62c-209fd511a4b1,BJP,India,in,108122750692155,Dhanpal Suryanarayana,Facebook
+f43db75d-722b-4ac8-9fb2-b427d1f25a53,Sanath Nagar BJP Balagam,2023-11-28T06:16:51.713Z,6bd8cd3d-687e-4939-8470-273bca3fc228,BJP,India,in,141739179031777,Sanath Nagar BJP Balagam,Facebook
 f4560dfc-44bf-471f-98c8-0fbdb4eb4517,pkaushal4bjp,2023-06-28T05:07:56.211Z,314cbef9-458d-4e1a-9e7d-dc26cca0a526,BJP,India,in,100383209765715,pkaushal4bjp,Facebook
 f4ebf8f1-d9c8-4b0d-ba83-dc03848789a7,Jyoti Mirdha,2023-10-05T05:08:02.481Z,fcc201fd-17f2-437c-8f64-986ebc125101,BJP,India,in,194927133913622,Jyoti Mirdha,Facebook
 f5703ce0-0ceb-48f7-9627-46412e864852,Sathishsri Raja Tamilnadu BJP State General Secretary Minority,2023-03-08T15:31:48.447Z,0726b0ce-39ff-4d5d-a106-21c58c3fdf8c,BJP,India,in,104448388052782,Sathishsri Raja Tamilnadu BJP State General Secretary Minority,Facebook
@@ -1430,6 +1467,7 @@ f65a2aa5-3164-4f44-a22d-2bbcface3d32,Amit Goyal,2023-08-29T05:06:46.898Z,1078963
 f6760d25-e887-470c-a231-f5e341f5ed1a,Mahant Pratap Puri,2023-08-15T05:07:11.679Z,afe5c3d5-2f89-40e4-bb26-344ce71a3b27,BJP,India,in,409933489422632,Mahant Pratap Puri,Facebook
 f6818a07-9f9d-4efc-980d-ed48a4ad6cd1,hardikshah_bjp,2023-05-24T06:53:10.693Z,70b383c5-a19c-45ae-a962-05bd16bfc2d3,BJP,India,in,106463005545335,hardikshah_bjp,Facebook
 f69c5fa3-0f7d-4940-b2a3-3b688cbc671e,bjp4anuragdahiya,2023-09-04T05:06:53.588Z,d0238925-14c9-4856-93e0-b97b57bd0316,BJP,India,in,117171374658594,bjp4anuragdahiya,Facebook
+f6df7f07-2b3e-42c7-9295-53bb1bd8a4af,Aruna kori BJP,2024-01-12T05:06:31.621Z,1156b7c2-bd89-42d3-a1a2-f2a1be24b840,BJP,India,in,192722220597172,Aruna kori BJP,Facebook
 f73c8eb1-cce7-4e05-959c-22aee90ce8cd,मैं भी शिवराज,2023-07-19T06:07:12.783Z,5f080d14-a48e-4455-afb0-30e6359e5e86,BJP,India,in,105012094797280,मैं भी शिवराज,Facebook
 f759bfa2-f20f-460e-bc63-3c8b0d8604d9,Dhananjay Mahadik MP Kolhapur,2023-03-31T10:53:17.916Z,611ad36f-04f1-404e-9fce-6b7968d3dc8b,BJP,India,in,421962034490470,Dhananjay Mahadik MP Kolhapur,Facebook
 f765fc58-6e9e-4bae-8a57-e4c610ec2445,Vasudev Devnani,2023-02-07T15:08:07.600Z,6fbb1a04-ce93-466b-a050-2bbb2f74b338,BJP,India,in,204159529623747,Vasudev Devnani,Facebook
@@ -1454,6 +1492,8 @@ fa75242a-8358-4200-ba0a-286f885bfb62,Neetesh Kushwaha Bjp,2023-11-20T05:07:07.18
 fa8e4616-485b-4922-a541-25506c1abd1a,सर्वधर्म,2023-09-15T05:06:40.097Z,11e70aa7-fab6-4e0c-8956-2245de8020e8,BJP,India,in,107663805751178,सर्वधर्म,Facebook
 faf4895a-cea4-446c-ae62-a8e9a88735a7,Gajendra Singh Odint,2023-04-11T10:52:53.549Z,c9b2c7a7-37ff-416a-b8e9-85f0f41b07c5,BJP,India,in,112808033567845,Gajendra Singh Odint,Facebook
 fc374ee4-3783-4dd6-8f61-47bb266a625f,Dr Samir Kagalkar,2023-02-07T15:08:05.754Z,5c24a15d-6bd3-4daa-9449-168ed83d35e1,BJP,India,in,104633612411419,Dr Samir Kagalkar,Facebook
+fc5483b1-0a94-4339-a19a-8a3f9df96f24,BJP poovachal Area,2024-01-06T05:07:05.310Z,94aaee98-c34e-48d9-af61-d2951bf9b6bf,BJP,India,in,108371745046602,BJP poovachal Area,Facebook
+fc79cc77-93f0-42f6-9473-2ab0ff28395d,Rajendra Pandey Bjp.,2023-11-10T06:23:32.556Z,38dd8ed8-1c84-45be-ae85-16b4d6265bc4,BJP,India,in,189580151870726,Rajendra Pandey Bjp.,Facebook
 fc9d74cd-1b88-4f3a-94a2-7d92261ff22c,Prakash Patel BJP,2023-09-23T05:06:53.858Z,6fb974d4-7aed-474b-9d66-ce9cfad7238c,BJP,India,in,1156302344391867,Prakash Patel BJP,Facebook
 fcb00520-791e-4b5a-9549-25ffd8c14f69,BJP Faridabad,2023-03-23T10:53:11.673Z,f80cd3d7-65cf-4637-b5e6-96991c113c6d,BJP,India,in,1435320959866030,BJP Faridabad,Facebook
 fcc1ff14-e475-4631-9f91-8d0634753840,Marri Pururava Reddy,2023-09-22T04:08:53.571Z,5c0076d5-82e5-4e6b-a28e-319f6eee25f8,BJP,India,in,612097545667450,Marri Pururava Reddy,Facebook
